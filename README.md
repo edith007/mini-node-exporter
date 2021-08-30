@@ -3,6 +3,9 @@
 In order to run the application use the following command:
 > docker-compose up
 
+In order to continously hit the endpoints and generate data for the grafana dashboard, execute the `generator/generate_events.py` using the following command:
+> python generator/generate_events.py
+
 Several End-points are:
 - `http://127.0.0.1:23333/info/hostname` show the hostname with plain text
 - `http://127.0.0.1:23333/info/uptime` show the uptime of the system in seconds with plain text
