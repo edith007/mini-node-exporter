@@ -20,14 +20,15 @@ Implemented Features
 - orcherating the monitroing stack and `mini-node-exporter` application by `docker-compose`
 
 ### Prometheus
-![prometheus](https://user-images.githubusercontent.com/53316982/131267449-95fcbc3c-dd20-4bbd-941d-7c627fbe9e4d.png)
+![prometheus](https://user-images.githubusercontent.com/53316982/131285539-4199bc29-13ea-49dc-b1d4-ca412a6be843.png)
+
 
 ### Grafana LoadTime
-![grafana_node_load](https://user-images.githubusercontent.com/53316982/131268198-2dcad1b9-76aa-46cc-b9d2-2d0970485904.png)
+![grafana_node_load](https://user-images.githubusercontent.com/53316982/131285567-cb85fdf5-d460-4e76-9ae3-986576ddebb9.png)
 
 
 #### Grafana UpTime
-![grafana_noad_uptime](https://user-images.githubusercontent.com/53316982/131268212-615a94ce-d5d0-4fd4-a3a9-4e725516d0cf.png)
+![Grafana_node_up_time](https://user-images.githubusercontent.com/53316982/131285595-8085a6af-9e3c-4ad7-ae7b-7ac72dc3c8a7.png)
 
 
 
